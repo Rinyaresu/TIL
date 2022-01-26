@@ -11,3 +11,4 @@ But you should use a controller according to MVC architecture like this:
     @mining_type_options = MiningType.all.pluck(:description, :id)  
   end
 ```
+[source](https://www.pablocantero.com/blog/2010/07/26/utilizando-o-rails-form-select/)

@@ -1,4 +1,5 @@
 # Concatenating string
+
 To concatenate Strings, we can use the methods + or <<
 
 ```ruby
@@ -14,7 +15,7 @@ name.object_id
 => 685520
 name << " "
 => "Kaique "
-name << surname+
+name << surname
 => "Kaique Linhares"
 name.object_id
 => 685520

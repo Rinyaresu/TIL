@@ -1,5 +1,5 @@
 # How to use I18n
-#Rails
+[[Ruby on Rails]]
 
 If you want to internationalize your application you will need the gem I18n.
 

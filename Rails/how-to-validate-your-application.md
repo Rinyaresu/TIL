@@ -1,5 +1,5 @@
 # How to validate your application
-#Rails
+[[Ruby on Rails]]
 
 > You must have scaffolding ready
 

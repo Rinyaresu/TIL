@@ -1,5 +1,5 @@
 # Substrings
-#Ruby
+[[Ruby]]
 
 Substrings are parts of a String.
 

@@ -1,5 +1,5 @@
 # Concatenating string
-#Ruby
+[[Ruby]]
 
 To concatenate Strings, we can use the methods + or <<
 

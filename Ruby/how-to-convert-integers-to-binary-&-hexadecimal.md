@@ -1,5 +1,5 @@
 # How to convert integers to binary & hexadecimal
-#Ruby
+[[Ruby]]
 
 ```ruby
 from integer to binary:

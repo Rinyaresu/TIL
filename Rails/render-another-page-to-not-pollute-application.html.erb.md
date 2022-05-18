@@ -1,5 +1,5 @@
 # render another page to not pollute application.html.erb
-#Rails
+ [[Ruby on Rails]]
 
 Instead of writing the html in application.html.erb like this
 

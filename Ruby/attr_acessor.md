@@ -1,5 +1,5 @@
 # Attr_acessor
-#Ruby
+[[Ruby]]
 
 Let's say you have a class `Person`.
 

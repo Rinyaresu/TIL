@@ -1,5 +1,5 @@
 # How to create a rake task to setup your development environment with devise
-#Rails
+[[Ruby on Rails]]
 
 In this example we are going to use two gems, a devise and tty-spinner. 
 

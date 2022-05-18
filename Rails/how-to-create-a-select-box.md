@@ -1,5 +1,5 @@
 # How to create a select box
-#Rails
+[[Ruby on Rails]]
 
 If you want to create a basic select box, you can use:
 ```erb

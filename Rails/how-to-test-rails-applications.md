@@ -1,5 +1,5 @@
 # How to test rails applications
-#Rails
+ [[Ruby on Rails]] [[Ruby]]
 
 Here we are going to test the user interaction with the system so we go to `/test/system/main_test.rb` .  Let's write the test!
 

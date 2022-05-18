@@ -1,5 +1,5 @@
 # How to write a shell script
-#Linux 
+[[Linux]]
 In my setup i have a 144hz monitor, I use linux  with bspwm and I can't set 144hz on the system.  So i created script so I don't have to write every time the computer turns on the code that sets 144hz. So finally let's see how to write a shell script
 
 First we create a .sh file.

@@ -1,4 +1,6 @@
 # How to use I18n
+#Rails
+
 If you want to internationalize your application you will need the gem I18n.
 
 First you add the gem to your gemfile:

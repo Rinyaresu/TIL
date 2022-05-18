@@ -1,4 +1,6 @@
 # How to create a rake task to setup your development environment with devise
+#Rails
+
 In this example we are going to use two gems, a devise and tty-spinner. 
 
 The tty-spinner for greater responsiveness and Devise and for an example of login with user and admin. 

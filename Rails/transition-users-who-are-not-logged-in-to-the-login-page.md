@@ -1,4 +1,5 @@
 # Transition users who are not logged in to the login page
+#Rails
 
 > You must have devise configured
 

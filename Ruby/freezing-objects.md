@@ -1,4 +1,5 @@
 # Freezing objects
+#Ruby 
 
 If, by chance, we explicitly want an object not to be modified, we can use the freeze method, which will raise a FrozenError exception if we try to change the object in any way:
 

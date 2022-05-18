@@ -1,4 +1,6 @@
 # Substrings
+#Ruby
+
 Substrings are parts of a String.
 
 To get some substrings, we can treat the String as an Array:

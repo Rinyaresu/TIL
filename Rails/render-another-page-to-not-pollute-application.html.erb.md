@@ -1,4 +1,5 @@
 # render another page to not pollute application.html.erb
+
  [[Ruby on Rails]]
 
 Instead of writing the html in application.html.erb like this

@@ -1,9 +1,11 @@
 # How to test rails applications
+
  [[Ruby on Rails]] [[Ruby]]
 
 Here we are going to test the user interaction with the system so we go to `/test/system/main_test.rb` .  Let's write the test!
 
 So the test we are going to write will visit the index_path and see if it has a text:
+
 ```ruby
 test "visiting the index" do
   visit main_index_path
@@ -27,6 +29,7 @@ end
 If we run this test it will fail, so let's write the code that our test needs.
 
 Go to `/app/models/articles/rb`
+
 ```ruby
 class Article < ApplicationRecord
   validates :title, presence: true

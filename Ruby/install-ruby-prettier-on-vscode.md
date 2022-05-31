@@ -1,4 +1,5 @@
 # Install Ruby-Prettier on vscode
+
 [[Ruby]]
 
 ## How to install prettier on vscode

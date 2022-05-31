@@ -1,4 +1,5 @@
 # How to use ccs in link_to helper
+
 [[Ruby on Rails]]
 
 If you are using bootstrap, and want to create a button using classes you can try this:
@@ -9,7 +10,7 @@ If you are using bootstrap, and want to create a button using classes you can tr
 
 But if you are using link_to helper to create the links you can do this:
 
-```erb 
+```erb
 <%= link_to 'Coins', coins_path, class:"btn btn-primary btn-lg, role:"button" %>  
 ```
 
